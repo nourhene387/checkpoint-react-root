@@ -7,7 +7,9 @@ function Filter({ onFilter }) {
   const handleTitleChange = (e) => {
     setTitleFilter(e.target.value);
   };
+  
 
+  
   const handleRatingChange = (e) => {
     setRatingFilter(e.target.value);
   };

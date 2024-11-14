@@ -1,5 +1,6 @@
 const data =[
     {
+        
         id:1,
         posterURL:"https://resizing.flixster.com/cxIkajW9YWU-M76zm6Pp7_NmB8M=/fit-in/705x460/v2/https://resizing.flixster.com/6Gb6qle9uj4PLxycVH7jUmUteE4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2IwYmJmMDgxLTk0YzYtNGY5Yi05M2M0LTFjMWQ3ZDkwMzY4Yy5qcGc=",
         videoURL:'https://www.youtube.com/embed/WTHmvfqvOXE?si=hZz0wl3G5PUmnd0S" title="YouTube video player',
