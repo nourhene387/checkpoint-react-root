@@ -8,8 +8,6 @@ function Filter({ onFilter }) {
     setTitleFilter(e.target.value);
   };
   
-
-  
   const handleRatingChange = (e) => {
     setRatingFilter(e.target.value);
   };

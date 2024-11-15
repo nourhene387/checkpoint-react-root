@@ -12,7 +12,6 @@ const MovieDetails = () => {
     return <div>Movie not found</div>;
   }
   
-
   return (
     <div className="container mt-4">
       <h2>{movie.title}</h2>

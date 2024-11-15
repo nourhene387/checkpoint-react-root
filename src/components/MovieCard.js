@@ -2,7 +2,7 @@ import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Card, Button } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
-
+//
 const MovieCard = ({ movie }) => {
   const { id, posterURL, title, description, rating } = movie;
 
