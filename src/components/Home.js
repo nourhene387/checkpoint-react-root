@@ -3,7 +3,7 @@ import MovieList from './MovieList';
 import Filter from './Filter';
 import movieData from '../database/data';
 import "./home.css"
-//
+/**** */
 function Home() {
   const [movies, setMovies] = useState(movieData.slice(0, 3));
   const [remainingMovies, setRemainingMovies] = useState(movieData.slice(3));

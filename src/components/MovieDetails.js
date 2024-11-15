@@ -3,7 +3,7 @@ import { useParams, Link } from 'react-router-dom';
 import { Button } from 'react-bootstrap';
 import movies from '../database/data';
 import './MovieDetails.css'
-
+//
 const MovieDetails = () => {
   const { id } = useParams();
   const movie = movies.find((m) => m.id === parseInt(id));
